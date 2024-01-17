@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Bike Gear",
+    "image": "https://i.ibb.co/kMKrSY4/bike1.png",
+    "price": 99,
+    "avilQty": 1250,
+    "minQty": 150,
+    "rating": 4.5,
+    "category": "bike",
+    "des": "Placement on Vehicle: RearMirror Color: ClearFitment: For Toyota Hiace H200 2005-2013FITS FOR THE RIGHT HAND DRIVERS STYLE.Note: Please make sure the size before purchase !!!colour: blackMaterial: metal + glass + plastic"
+  },
+  {
+    "name": "Riding hill Shoot",
+    "image": "https://i.ibb.co/f8z6xWQ/shirt2.png",
+    "price": 49,
+    "avilQty": 1150,
+    "minQty": 150,
+    "rating": 4.2,
+    "category": "shoot",
+    "des": "Placement on Vehicle: RearMirror Color: ClearFitment: For Toyota Hiace H200 2005-2013FITS FOR THE RIGHT HAND DRIVERS STYLE.Note: Please make sure the size before purchase !!!colour: blackMaterial: metal + glass + plastic"
+  },
+  {
+    "name": "Motor Bike Break",
+    "image": "https://i.ibb.co/nD8PjZk/part1.png",
+    "price": 49,
+    "avilQty": 850,
+    "minQty": 110,
+    "rating": 4.2,
+    "category": "part",
+    "des": "Placement on Vehicle: RearMirror Color: ClearFitment: For Toyota Hiace H200 2005-2013FITS FOR THE RIGHT HAND DRIVERS STYLE.Note: Please make sure the size before purchase !!!colour: blackMaterial: metal + glass + plastic"
+  },
+  {
+    "name": "Pro Rider Helmet",
+    "image": "https://i.ibb.co/7tST8sq/helmet2.png",
+    "price": 49,
+    "avilQty": 1550,
+    "minQty": 150,
+    "rating": 4.7,
+    "category": "helmet",
+    "des": "Placement on Vehicle: RearMirror Color: ClearFitment: For Toyota Hiace H200 2005-2013FITS FOR THE RIGHT HAND DRIVERS STYLE.Note: Please make sure the size before purchase !!!colour: blackMaterial: metal + glass + plastic"
+  },
+  {
+    "name": "Pro Rider Glass",
+    "image": "https://i.ibb.co/ZgcPjJS/glass.png",
+    "price": 49,
+    "avilQty": 1550,
+    "minQty": 150,
+    "rating": 4.7,
+    "category": "glaves",
+    "des": "Placement on Vehicle: RearMirror Color: ClearFitment: For Toyota Hiace H200 2005-2013FITS FOR THE RIGHT HAND DRIVERS STYLE.Note: Please make sure the size before purchase !!!colour: blackMaterial: metal + glass + plastic"
+  },
+  {
+    "name": "Pro Rider Boot",
+    "image": "https://i.ibb.co/hVNg8c6/boot2.png",
+    "price": 49,
+    "avilQty": 1550,
+    "minQty": 150,
+    "rating": 4.7,
+    "category": "Helmet",
+    "des": "Placement on Vehicle: RearMirror Color: ClearFitment: For Toyota Hiace H200 2005-2013FITS FOR THE RIGHT HAND DRIVERS STYLE.Note: Please make sure the size before purchase !!!colour: blackMaterial: metal + glass + plastic"
+  }
+]

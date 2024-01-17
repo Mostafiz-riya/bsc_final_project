@@ -1,0 +1,52 @@
+[
+  {
+    "des": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown ...",
+    "img": null,
+    "name": "Avi",
+    "email": "abhijeetmondal5@gmai.com",
+    "rating": 5
+  },
+  {
+    "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum ut, sit ad quae aut cumque fuga nostrum dolorem nobis, cupiditate aliquid similique dolores quasi magnam perferendis quas minus ullam perspiciatis!",
+    "img": "https://lh3.googleusercontent.com/a/AATXAJzGtQlSq2artO80YcQjx71MpB6cpb7dYNKOCTzj=s96-c",
+    "name": "Tamal Mallick",
+    "email": "tamalcseiu@gmail.com",
+    "rating": 4
+  },
+  {
+    "name": "Winson Herry",
+    "rating": 5,
+    "des": "It is a long established fact that by the readable content of a lot layout. The point of using Lorem a more-or-less normal distribu to using Content here, content",
+    "img": "https://i.ibb.co/YQSz5my/people2.png"
+  },
+  {
+    "name": "Winson Herry",
+    "rating": 4.4,
+    "des": "It is a long established fact that by the readable content of a lot layout. The point of using Lorem a more-or-less normal distribu to using Content here, content",
+    "img": "https://i.ibb.co/PWjGZL6/people3.png"
+  },
+  {
+    "name": "Winson Herry",
+    "rating": 4,
+    "des": "It is a long established fact that by the readable content of a lot layout. The point of using Lorem a more-or-less normal distribu to using Content here, content",
+    "img": "https://i.ibb.co/2PzZzJL/people1.png"
+  },
+  {
+    "name": "Winson Herry",
+    "rating": 5,
+    "des": "It is a long established fact that by the readable content of a lot layout. The point of using Lorem a more-or-less normal distribu to using Content here, content",
+    "img": "https://i.ibb.co/YQSz5my/people2.png"
+  },
+  {
+    "name": "Winson Herry",
+    "rating": 4.4,
+    "des": "It is a long established fact that by the readable content of a lot layout. The point of using Lorem a more-or-less normal distribu to using Content here, content",
+    "img": "https://i.ibb.co/PWjGZL6/people3.png"
+  },
+  {
+    "name": "Winson Herry",
+    "rating": 4,
+    "des": "It is a long established fact that by the readable content of a lot layout. The point of using Lorem a more-or-less normal distribu to using Content here, content",
+    "img": "https://i.ibb.co/2PzZzJL/people1.png"
+  }
+]
